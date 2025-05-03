@@ -41,8 +41,8 @@ AbuseIPDB: [Sign up and get an API key]([url](https://www.abuseipdb.com/account/
 2. Set Your API Keys
 
 [API_KEYS]
-change this parameters in ioc_scanner.py
-virustotal = YOUR_VIRUSTOTAL_API_KEY
+change this parameters in ioc_scanner.py 
+virustotal = YOUR_VIRUSTOTAL_API_KEY 
 abuseipdb = YOUR_ABUSEIPDB_API_KEY
 
 
