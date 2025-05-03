@@ -1,6 +1,6 @@
-# 🛡️ IOC Enrichment Scanner
+# 🛡️ Windows IOC Enrichment Scanner
 
-A standalone Python-based IOC (Indicators of Compromise) enrichment tool for threat intelligence analysis. Scans directories for IPs, domains, and hashes in log files, checks them against VirusTotal and AbuseIPDB, and logs alerts with detailed context.
+A Windows standalone Python-based IOC (Indicators of Compromise) enrichment tool for threat intelligence analysis. Scans directories for IPs, domains, and hashes in log files, checks them against VirusTotal and AbuseIPDB, and logs alerts with detailed context.
 👉 For a full code walkthrough and detailed explanation, [read the Medium post here](https://medium.com/@ameer123.1999/from-coursera-to-code-building-a-simple-ioc-scanner-in-python-1efeadf8ffa9)
 
 
