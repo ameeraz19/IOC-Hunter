@@ -25,21 +25,21 @@ A Windows standalone Python-based IOC (Indicators of Compromise) enrichment tool
 git clone https://github.com/ameeraz19/IOC-Hunter.git
 cd IOC-Hunter
 ```
-2. Install Requirements
+### 2. Install Requirements
 Make sure you have Python 3.8+ installed, then install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-🔑 Configuration
-1. Get API Keys
+## 🔑 Configuration
+### 1. Get API Keys
    
 VirusTotal: [Get your API key here](https://www.virustotal.com/gui/my-apikey))
 
 AbuseIPDB: [Sign up and get an API key](https://www.abuseipdb.com/account/api)
 
-2. Set Your API Keys
+### 2. Set Your API Keys
 
 [API_KEYS]
 change this parameters in ioc_scanner.py 
