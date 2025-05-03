@@ -34,9 +34,9 @@ pip install -r requirements.txt
 
 🔑 Configuration
 1. Get API Keys
-VirusTotal: [Get your API key here]([url](https://www.virustotal.com/gui/my-apikey))
+VirusTotal: [Get your API key here](https://www.virustotal.com/gui/my-apikey))
 
-AbuseIPDB: [Sign up and get an API key]([url](https://www.abuseipdb.com/account/api))
+AbuseIPDB: [Sign up and get an API key](https://www.abuseipdb.com/account/api)
 
 2. Set Your API Keys
 
